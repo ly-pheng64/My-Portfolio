@@ -292,11 +292,12 @@ article .icon {
   
 }
 .details{
+  margin-top: 10px;
   margin-bottom: 10px;
-  width: 300px;
-  height: 300px;
+  width: 310px;
+  height: 350px;
   padding: 20px;
-  margin-left: 10px;
+  margin-left: 15px;
   background: white;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
@@ -330,12 +331,13 @@ article .icon {
 
 /* CONTACT */
 
-.contact {
-  margin-top: 100px;
+#contact {
+  /* background-color: aqua; */
+  /* margin-top: 100px; */
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 100vh;
+  height: 80vh;
 }
 
 .contact-info-upper-container {
